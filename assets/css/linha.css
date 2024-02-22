@@ -1,0 +1,4 @@
+.linha{
+    border: 0.5px solid var(--background-color);
+    margin-top: 1em;
+}

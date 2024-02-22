@@ -1,0 +1,6 @@
+.faq__header{
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 1.5em;
+}

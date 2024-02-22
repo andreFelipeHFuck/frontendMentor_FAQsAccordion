@@ -1,0 +1,10 @@
+.faq__title{
+    color: var(--dark-purple);
+    font-weight: 700;
+}
+
+@media screen and (min-width: 1440px){
+    .faq__title{
+        font-size: 36px;
+    }
+}

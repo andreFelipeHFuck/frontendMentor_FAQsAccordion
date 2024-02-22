@@ -1,0 +1,12 @@
+.faq__text{
+    color: var(--dark-purple);
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+}
+
+@media screen and (min-width: 1440px){
+    .faq__text{
+        font-size: 18px;
+    }
+}

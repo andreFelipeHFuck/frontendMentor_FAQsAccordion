@@ -1,0 +1,6 @@
+.faq__button{
+    background-color: var(--white);
+    border: none;
+    cursor: pointer;
+    margin-left: 1.5em;
+}

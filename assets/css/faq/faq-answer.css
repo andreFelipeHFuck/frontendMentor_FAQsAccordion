@@ -1,0 +1,10 @@
+.faq__answer{
+    color: var(--grayish-purple);
+    display: none;
+    margin-top: 1.5em;
+    line-height: 25px;
+}
+
+.faq__answer--active{
+    display: block;
+}

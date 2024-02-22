@@ -1,0 +1,10 @@
+.faq__figure{
+    margin: 0;
+    margin-right: 0.5em;
+}
+
+@media screen and (min-width: 1440px) {
+    .faq__figure{
+        margin-right: 0;
+    }
+}
