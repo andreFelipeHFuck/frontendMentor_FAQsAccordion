@@ -1,4 +1,4 @@
-const faqBt = document.querySelectorAll('.faq__button');
+const faqBt = document.querySelectorAll('.faq__question');
 const faqIcon = document.querySelectorAll('.faq__icon');
 const faqAnswer = document.querySelectorAll('.faq__answer');
 
